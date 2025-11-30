@@ -1,0 +1,20 @@
+# OS system files
+.DS_Store
+
+# Node.js projects
+node_modules/
+
+# Python projects
+__pycache__/
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
